@@ -6,13 +6,13 @@
 }
 .header {
   height: 3.5rem;
-  background-color: red;
+  background-color: blanchedalmond;
 }
 .search {
   height: 3.5rem;
-  background-color: blue;
+  background-color: burlywood;
 }
 .chats {
   height: 36rem;
-  background-color: green;
+  background-color: coral;
 }
