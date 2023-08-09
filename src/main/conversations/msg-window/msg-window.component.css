@@ -6,3 +6,23 @@
   height: 100%;
   background-image: url(https://is.zobj.net/image-server/v1/images?r=4cxVw4le4v_ChTIcYTrdtrltB37iUHPyOA37II1BlD-EyEw_3Jbin6nGC0umio8r-ZcwRFzoWY5dsPYKs6YHJ3pF1ojO5no7G4hIr0R6UzA0gMH1YhfjLbUe2APfMLZQ4C_mYp762qQj5B3M27mP0Jyy1V5tRo9D_3sl_Ok9BxxnAsQW6Vc1nD4C9wEodTfBnJ0iTSX-SRjHurAXkUHvYvhd4zzUsO0LI8oGoQ);
 }
+.inmsg{
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 60%;
+  min-width: 20%;
+  background-color: white;
+  align-self: flex-start;
+  margin: 1rem;
+}
+.outmsg{
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 1rem;
+  max-width: 60%;
+  min-width: 20%;
+  background-color: #d9fdd3;
+  align-self: flex-end;
+  margin: 1rem;
+}
