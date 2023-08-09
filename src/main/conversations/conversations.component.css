@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: flex-start;
   height: 43.6rem;
-  /* background-color: darksalmon; */
+  background-color: darksalmon;
 }
 .con-header{
   display: flex;
@@ -12,7 +12,7 @@
   align-items: center;
   height: 3.5rem;
   width: 100%;
-  /* background-color: coral; */
+  background-color: coral;
 }
 .msg-window{
   display: flex;
@@ -20,7 +20,7 @@
   align-items: center;
   height: 36rem;
   width: 100%;
-  /* background-color: #eee; */
+  background-color: #eee;
 }
 .footer{
   display: flex;
@@ -28,5 +28,5 @@
   align-items: center;
   height: 4rem;
   width: 100%;
-  /* background-color: red; */
+  background-color: red;
 }
